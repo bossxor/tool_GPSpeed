@@ -1,0 +1,8 @@
+[build]
+  publish = "web-dist"
+  command = "npx expo export --platform web --output-dir web-dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

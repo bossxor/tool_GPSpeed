@@ -1,4 +1,4 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+﻿# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
 node_modules/
@@ -7,6 +7,7 @@ node_modules/
 .expo/
 dist/
 web-build/
+web-dist/
 expo-env.d.ts
 
 # Native
@@ -39,3 +40,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# local release artifacts
+/releases/
+*.apk
