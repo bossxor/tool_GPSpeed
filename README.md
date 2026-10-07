@@ -11,7 +11,7 @@ GPS로 **현재 속도**를 보여주는 앱입니다. 안드로이드는 네이
 
 - Android: Releases에서 `GPSpeed.apk` 설치 후 위치 권한 허용
 - iPhone: Safari로 위 웹 주소를 열고 위치 권한 허용 (HTTPS라 GPS 사용 가능)
-- 프로젝트 모음 대시보드: [https://bossxor.netlify.app/](https://bossxor.netlify.app/)
+- 프로젝트 모음 대시보드: [https://bossxor.github.io/works-dashboard/](https://bossxor.github.io/works-dashboard/)
 
 ## 기능
 
